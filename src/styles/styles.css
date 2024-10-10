@@ -64,7 +64,7 @@ button {
 }
 
 .enemy {
-  background-image: url("/src/imagens/ralph.png");
+  background-image: url("./src/imagens/ralph.png");
   background-size: cover;
 }
 
